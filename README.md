@@ -48,8 +48,8 @@ End the program.
 
 ```python
 
-Developed By: Gunaseelan G
-Register Number: 212221230031
+Developed By: MOHAMED ASEEM.P
+Register Number: 212221230063
 Program to segment the image using global thresholding, adaptive thresholding and Otsu's thresholding using python and OpenCV.
 
 ```
